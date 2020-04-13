@@ -2,4 +2,4 @@ It's a [Google Apps Script](https://developers.google.com/apps-script) for sprea
 My family used to write down the scores on the piece of paper, until I coded this spreadsheet for us. We didn't have to calculate the scores manually anymore!
 
 Game preview:
-![game preview](https://github.com/RAleksa/preferance-scores/blob/master/preferans_preview.png)
+![game preview](https://github.com/RAleksa/preferance-scores/blob/master/preview.png)
